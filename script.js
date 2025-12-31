@@ -54,7 +54,7 @@ Available commands:
   whoami: `
 Anamika Sahu
 Frontend Developer | Cybersecurity Engineer
-Google Play Protect | Android Security
+Working for Google Play Protect 
 `,
 
   about: `
