@@ -53,7 +53,7 @@ Available commands:
 
   whoami: `
 Anamika Sahu
-Frontend Developer | Cybersecurity Engineer
+Frontend Developer | Cybersecurity Enthusiast 
 Working for Google Play Protect 
 `,
 
@@ -67,7 +67,7 @@ Working for Google Play Protect
 
 🔗 LINKS
 GitHub   : https://github.com/Anamika-debug
-LinkedIn : https://www.linkedin.com/in/anamika-sahu
+LinkedIn : https://www.linkedin.com/in/anamika-sahu-b70917169/
 `,
 
 
