@@ -61,7 +61,7 @@ Working for Google Play Protect
 👩‍💻 ABOUT ME
 - Anamika Sahu
 - MCA (Computer Applications)
-- Frontend: React, MUI, Tailwind
+- Frontend: React, MUI, Tailwind, vue js , vanilla js
 - Cybersecurity: Android RE, Frida, Ghidra
 - Passionate about secure systems & UI
 
